@@ -1,0 +1,17 @@
+.search-form-elem {
+  width: 100%;
+  /* max-width: 680px; */
+  margin: 1.4rem 0rem;
+  border-radius: 3.8rem;
+}
+.search-form-elem .form-control {
+  font-size: 2rem;
+  width: 100%;
+  border-bottom: 1px solid #999;
+  padding: 1.5rem 3rem;
+  border-radius: 3rem;
+  box-shadow: 0 1px 6px 0 rgb(32 33 36 / 28%);
+}
+.search-form-elem .form-control::placeholder {
+  opacity: 0.9;
+}
